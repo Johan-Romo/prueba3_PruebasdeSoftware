@@ -1,0 +1,81 @@
+﻿@model ProductosPractica.Models.Product
+
+@{
+    ViewData["Title"] = "Editar Producto";
+}
+
+<div class="container mt-4">
+    <div class="row mb-4">
+        <div class="col-sm-6">
+            <h1 class="text-primary">@ViewData["Title"]</h1>
+        </div>
+        <div class="col-sm-6">
+            <ol class="breadcrumb float-sm-right bg-light p-2 rounded">
+                <li class="breadcrumb-item"><a href="#" class="text-primary">Home</a></li>
+                <li class="breadcrumb-item active">Editar Producto</li>
+            </ol>
+        </div>
+    </div>
+
+    <form id="quickForm" asp-action="Edit">
+        <div class="card border-primary">
+            <div class="card-header bg-primary text-white">
+                <h3 class="card-title">Editar Producto</h3>
+                <div class="card-tools">
+                    <button type="button" class="btn btn-tool text-white" data-card-widget="collapse">
+                        <i class="fas fa-minus"></i>
+                    </button>
+                </div>
+            </div>
+            <div class="card-body bg-light">
+                <input type="hidden" asp-for="ProductId" />
+
+                <div class="form-group">
+                    <label for="productName">Nombre del Producto</label>
+                    <input type="text" asp-for="ProductName" class="form-control" id="productName" placeholder="Nombre del Producto" maxlength="100" />
+                    <span asp-validation-for="ProductName" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label for="category">Categoría</label>
+                    <select asp-for="Category" class="form-control" id="category">
+                        <option value="">Seleccione una categoría</option>
+                        <option value="Electrónica" >Electrónica</option>
+                        <option value="Ropa" >Ropa</option>
+                        <option value="Hogar" >Hogar</option>
+                        <option value="Deportes" >Deportes</option>
+                        <option value="Juguetes">Juguetes</option>
+                        <!-- Agrega aquí más categorías según lo necesites -->
+                    </select>
+                    <span asp-validation-for="Category" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Price">Precio</label>
+                    <input type="number" asp-for="Price" class="form-control" id="price" step="0.01" min="0" />
+                
+                </div>
+
+
+                <div class="form-group">
+                    <label for="stockQuantity">Cantidad en Stock</label>
+                    <input type="number" asp-for="StockQuantity" class="form-control" id="stockQuantity" placeholder="Cantidad en Stock" min="0" />
+                    <span asp-validation-for="StockQuantity" class="text-danger"></span>
+                </div>
+
+            </div>
+            <div class="card-footer bg-light">
+                <button type="submit" class="btn btn-success btn-sm" id="btnGuardarProducto" name="editarProducto">
+                    <i class="fas fa-save"></i> Guardar
+                </button>
+            </div>
+        </div>
+        <div class="mt-3">
+            <a asp-action="Index" class="btn btn-secondary mb-3"><< Regresar</a>
+        </div>
+    </form>
+</div>
+
+<!-- Incluye los enlaces a los archivos CSS y JS de Bootstrap si aún no están en tu layout -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>

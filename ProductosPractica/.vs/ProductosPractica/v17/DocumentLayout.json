@@ -1,0 +1,316 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\johan\\source\\repos\\ProductosPractica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB3805F-2E63-4FBD-9BFA-D116F788AC36}|..\\SpecFlowTest\\SpecFlowTest.csproj|c:\\users\\johan\\source\\repos\\specflowtest\\stepdefinitions\\editstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB3805F-2E63-4FBD-9BFA-D116F788AC36}|..\\SpecFlowTest\\SpecFlowTest.csproj|c:\\users\\johan\\source\\repos\\specflowtest\\features\\edit.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBF831A-87CB-4202-9A0D-92BDC577C8A9}|ProductosPractica.csproj|c:\\users\\johan\\source\\repos\\productospractica\\data\\productsqldataacceslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBF831A-87CB-4202-9A0D-92BDC577C8A9}|ProductosPractica.csproj|solutionrelative:data\\productsqldataacceslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBF831A-87CB-4202-9A0D-92BDC577C8A9}|ProductosPractica.csproj|c:\\users\\johan\\source\\repos\\productospractica\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBF831A-87CB-4202-9A0D-92BDC577C8A9}|ProductosPractica.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBF831A-87CB-4202-9A0D-92BDC577C8A9}|ProductosPractica.csproj|c:\\users\\johan\\source\\repos\\productospractica\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBF831A-87CB-4202-9A0D-92BDC577C8A9}|ProductosPractica.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBF831A-87CB-4202-9A0D-92BDC577C8A9}|ProductosPractica.csproj|c:\\users\\johan\\source\\repos\\productospractica\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EBF831A-87CB-4202-9A0D-92BDC577C8A9}|ProductosPractica.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB3805F-2E63-4FBD-9BFA-D116F788AC36}|..\\SpecFlowTest\\SpecFlowTest.csproj|c:\\users\\johan\\source\\repos\\specflowtest\\stepdefinitions\\deletestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB3805F-2E63-4FBD-9BFA-D116F788AC36}|..\\SpecFlowTest\\SpecFlowTest.csproj|c:\\users\\johan\\source\\repos\\specflowtest\\features\\delete.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB3805F-2E63-4FBD-9BFA-D116F788AC36}|..\\SpecFlowTest\\SpecFlowTest.csproj|c:\\users\\johan\\source\\repos\\specflowtest\\features\\read.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB3805F-2E63-4FBD-9BFA-D116F788AC36}|..\\SpecFlowTest\\SpecFlowTest.csproj|c:\\users\\johan\\source\\repos\\specflowtest\\features\\insert.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB3805F-2E63-4FBD-9BFA-D116F788AC36}|..\\SpecFlowTest\\SpecFlowTest.csproj|c:\\users\\johan\\source\\repos\\specflowtest\\stepdefinitions\\ingresostepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB3805F-2E63-4FBD-9BFA-D116F788AC36}|..\\SpecFlowTest\\SpecFlowTest.csproj|c:\\users\\johan\\source\\repos\\specflowtest\\stepdefinitions\\lecturastepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBF831A-87CB-4202-9A0D-92BDC577C8A9}|ProductosPractica.csproj|c:\\users\\johan\\source\\repos\\productospractica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBF831A-87CB-4202-9A0D-92BDC577C8A9}|ProductosPractica.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBF831A-87CB-4202-9A0D-92BDC577C8A9}|ProductosPractica.csproj|c:\\users\\johan\\source\\repos\\productospractica\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBF831A-87CB-4202-9A0D-92BDC577C8A9}|ProductosPractica.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBF831A-87CB-4202-9A0D-92BDC577C8A9}|ProductosPractica.csproj|c:\\users\\johan\\source\\repos\\productospractica\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EBF831A-87CB-4202-9A0D-92BDC577C8A9}|ProductosPractica.csproj|solutionrelative:views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBF831A-87CB-4202-9A0D-92BDC577C8A9}|ProductosPractica.csproj|c:\\users\\johan\\source\\repos\\productospractica\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EBF831A-87CB-4202-9A0D-92BDC577C8A9}|ProductosPractica.csproj|solutionrelative:views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBF831A-87CB-4202-9A0D-92BDC577C8A9}|ProductosPractica.csproj|c:\\users\\johan\\source\\repos\\productospractica\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EBF831A-87CB-4202-9A0D-92BDC577C8A9}|ProductosPractica.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBF831A-87CB-4202-9A0D-92BDC577C8A9}|ProductosPractica.csproj|c:\\users\\johan\\source\\repos\\productospractica\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EBF831A-87CB-4202-9A0D-92BDC577C8A9}|ProductosPractica.csproj|solutionrelative:views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB3805F-2E63-4FBD-9BFA-D116F788AC36}|..\\SpecFlowTest\\SpecFlowTest.csproj|c:\\users\\johan\\source\\repos\\specflowtest\\stepdefinitions\\calculatorstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductSqlDataAccesLayer.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\ProductosPractica\\Data\\ProductSqlDataAccesLayer.cs",
+              "RelativeDocumentMoniker": "Data\\ProductSqlDataAccesLayer.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\ProductosPractica\\Data\\ProductSqlDataAccesLayer.cs",
+              "RelativeToolTip": "Data\\ProductSqlDataAccesLayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:15:52.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.feature",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\SpecFlowTest\\Features\\Edit.feature",
+              "RelativeDocumentMoniker": "..\\SpecFlowTest\\Features\\Edit.feature",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\SpecFlowTest\\Features\\Edit.feature",
+              "RelativeToolTip": "..\\SpecFlowTest\\Features\\Edit.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAGAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-08-22T13:54:40.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\SpecFlowTest\\StepDefinitions\\EditStepDefinitions.cs",
+              "RelativeDocumentMoniker": "..\\SpecFlowTest\\StepDefinitions\\EditStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\SpecFlowTest\\StepDefinitions\\EditStepDefinitions.cs",
+              "RelativeToolTip": "..\\SpecFlowTest\\StepDefinitions\\EditStepDefinitions.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAqwB8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T13:59:56.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\ProductosPractica\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\ProductosPractica\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:30:24.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\ProductosPractica\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\ProductosPractica\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:30:29.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\ProductosPractica\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\ProductosPractica\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T12:55:58.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\SpecFlowTest\\StepDefinitions\\DeleteStepDefinitions.cs",
+              "RelativeDocumentMoniker": "..\\SpecFlowTest\\StepDefinitions\\DeleteStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\SpecFlowTest\\StepDefinitions\\DeleteStepDefinitions.cs",
+              "RelativeToolTip": "..\\SpecFlowTest\\StepDefinitions\\DeleteStepDefinitions.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T14:13:47.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.feature",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\SpecFlowTest\\Features\\Delete.feature",
+              "RelativeDocumentMoniker": "..\\SpecFlowTest\\Features\\Delete.feature",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\SpecFlowTest\\Features\\Delete.feature",
+              "RelativeToolTip": "..\\SpecFlowTest\\Features\\Delete.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-08-22T14:13:14.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Read.feature",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\SpecFlowTest\\Features\\Read.feature",
+              "RelativeDocumentMoniker": "..\\SpecFlowTest\\Features\\Read.feature",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\SpecFlowTest\\Features\\Read.feature",
+              "RelativeToolTip": "..\\SpecFlowTest\\Features\\Read.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-08-22T14:06:18.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Insert.feature",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\SpecFlowTest\\Features\\Insert.feature",
+              "RelativeDocumentMoniker": "..\\SpecFlowTest\\Features\\Insert.feature",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\SpecFlowTest\\Features\\Insert.feature",
+              "RelativeToolTip": "..\\SpecFlowTest\\Features\\Insert.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-08-22T13:12:51.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IngresoStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\SpecFlowTest\\StepDefinitions\\IngresoStepDefinitions.cs",
+              "RelativeDocumentMoniker": "..\\SpecFlowTest\\StepDefinitions\\IngresoStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\SpecFlowTest\\StepDefinitions\\IngresoStepDefinitions.cs",
+              "RelativeToolTip": "..\\SpecFlowTest\\StepDefinitions\\IngresoStepDefinitions.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowEsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T13:20:23.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LecturaStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\SpecFlowTest\\StepDefinitions\\LecturaStepDefinitions.cs",
+              "RelativeDocumentMoniker": "..\\SpecFlowTest\\StepDefinitions\\LecturaStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\SpecFlowTest\\StepDefinitions\\LecturaStepDefinitions.cs",
+              "RelativeToolTip": "..\\SpecFlowTest\\StepDefinitions\\LecturaStepDefinitions.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T15:40:14.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\ProductosPractica\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\ProductosPractica\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAIwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T17:18:17.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\ProductosPractica\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\ProductosPractica\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:10:39.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\ProductosPractica\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\ProductosPractica\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T12:49:02.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\ProductosPractica\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\ProductosPractica\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAACUAAAAAAAAAAAAwwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T12:55:34.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\ProductosPractica\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\ProductosPractica\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAiwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T12:44:37.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\ProductosPractica\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\ProductosPractica\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Product\\Delete.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAgwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T12:54:09.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CalculatorStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\SpecFlowTest\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "RelativeDocumentMoniker": "..\\SpecFlowTest\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\SpecFlowTest\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "RelativeToolTip": "..\\SpecFlowTest\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T13:36:15.044Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
